@@ -21,7 +21,7 @@ class ChatFromitem(val text:String, val user: User): Item<ViewHolder>()
     }
 }
 
-// test2
+// test3
 class ChatToitem(val text:String, val user: User): Item<ViewHolder>() {
     override fun bind(viewHolder: ViewHolder, position: Int) {
         viewHolder.itemView.textView_to_row.text = text

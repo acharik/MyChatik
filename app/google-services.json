@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9753144040",
+    "project_id": "mymessenger-df70d",
+    "storage_bucket": "mymessenger-df70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9753144040:android:39308fb102e5ddf2fc375d",
+        "android_client_info": {
+          "package_name": "com.example.mychatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9753144040-u3dme8pl0pp0j2bpp57nthsavuhgbqr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN865UM8q2c6LzKq3Ukjx0LSHnIX7ONRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9753144040-u3dme8pl0pp0j2bpp57nthsavuhgbqr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
